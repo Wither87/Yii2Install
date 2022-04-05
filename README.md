@@ -11,7 +11,8 @@
 
 Админ может публиковать посты и снимать с публикации
 
-####DIRECTORY STRUCTURE
+DIRECTORY STRUCTURE
+-------------------
 
       assets/             contains assets definition
       commands/           contains console commands (controllers)
